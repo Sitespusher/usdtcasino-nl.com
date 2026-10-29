@@ -1,5 +1,6 @@
 User-agent: *
 Allow: /
 Disallow: /visit/*
+Disallow: /pl/visit/*
 
 Sitemap: https://usdtcasino-nl.com/sitemap.xml
